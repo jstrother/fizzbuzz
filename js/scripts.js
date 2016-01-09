@@ -9,6 +9,5 @@ $(document).ready(function() {
         } else {
             $('#fizzbuzz').append(i + '<br />');
         }
-        console.log(i);
     }
 });
